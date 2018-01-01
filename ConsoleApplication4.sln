@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication4", "ConsoleApplication4\ConsoleApplication4.csproj", "{5B44974D-4D9B-4A34-AC3A-AA723FDD82F7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "installerfile", "installerfile\installerfile.vdproj", "{16C0ED22-A4B6-424E-87B8-8FDEF7FB199E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{5B44974D-4D9B-4A34-AC3A-AA723FDD82F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B44974D-4D9B-4A34-AC3A-AA723FDD82F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B44974D-4D9B-4A34-AC3A-AA723FDD82F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C0ED22-A4B6-424E-87B8-8FDEF7FB199E}.Debug|Any CPU.ActiveCfg = Debug
+		{16C0ED22-A4B6-424E-87B8-8FDEF7FB199E}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
