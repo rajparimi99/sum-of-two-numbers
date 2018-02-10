@@ -1,0 +1,80 @@
+coming to the work experience i have 18 months 
+
+I Joind as a network engineer in sysntilli
+ 
+But due to lack of resourses in our company i volunteerd myself as a buid engineer. on the other hand i having a acedmic experince with ide tools like visual studiuo , eclipse,  git and other skill set helped me to contribute more to this position so from past 5 months im working as a build engineer  in this company  
+
+
+
+right now Im working on a project called central device ,,,where this application will upload instant designs photos documnts and templates into a cloudbased service and it can also syn data from cloud to local databse where it can also allow users to search through designs and moreover this application also having autosaving feature such that all edited designs are store to databse withoout the user intervention ,,, basicaly this desktop application is an internal tool for the clients   office use and
+
+
+the platform we are using to devlop this application is dotnet, language used is c# and 
+
+moreover We are using GitHub as version control system and GitExtension as Interface for Github, few of our developer use gitbash sometime I also use but not much ,,,mostly i will use gitextension,and  all our CI builds are configured in Jenkins,  
+
+
+coming to builsd schedule We have two official builds per week, but sometime I do more than two builds it depends on the software behavior. probably like 3 PM is cutoff time for official builds, After cut off time Developer should not checkin any code until I complete my build.
+
+
+
+********* How exactly i will do the build is 
+I pull code from GitHub to my local machine through GitExtension and update version number((where i update it in a assembly info.cs)) some of the steps to commit the code are
+in the git extension i have to click on that commit option for the changes i done and the next step is to stage the changes and then i will give a commit message before i commit the changes to my local machine and then push them back to origin/master.
+
+And goto Jenkins from there I build the project,,
+
+once build is done it will send mail to all developers including Tester with build artifacts.
+  
+After build success I tag the project with build version number and update the release notes and inform the dev team.
+
+mostly i will Monitor and Identify day to day build failures and inform developer’s team with description attaching build log files. 
+
+
+
+upon that i will Follow the procedure to setup and manage software builds.and I have configured projects in Jenkins for individual branches.
+where i configur the project with these options in jenkins like .............................
+
+
+
+
+and also i have knowldge in how to configure Nodes(Agents) for Jenkins CI Server where we configured two nodes.
+
+
+
+so these are the tasks related to my build engineer postion 
+
+
+coming to my network engineer role 
+
+
+so these are the task done related to network enginer.
+
+
+
+
+before i worked as a network engineer in india,,,,, after finishing my master when im seeking for the job in the intial days i got an oppurtunity to work as a netwrok engineer but having masters degree in computer science  i wish to enhance my carrier as devops engineer,,,,,, since i got an oppurtunikty to work as a build engineer i took it as frist step towards this ..... 
+
+
+
+
+
+
+global healthcare and diagnostics company ,,,,,creating, marketing  some of the most innovative diagnostic technologies and surgical equipment
+
+
+
+Pulled issues from Redmin and updated release notes with them and sent to QA Team.
+
+GitHub: It’s a version control system, developers put new code on GitHub server.
+GitExtension: It’s GUI Interface for GitHub, with this we can do all git related operations,(Pull,push,commit,tag,create branch..etc)
+Jenkins: Jenkins is a Continues Integration Server (CI) all builds are perform on Jenkins.
+Redmin: Issue tracking tool.
+
+
+
+
+
+
+
+
